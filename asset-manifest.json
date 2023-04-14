@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e7f2b11.css",
+    "main.js": "/static/js/main.7359375c.js",
+    "static/js/787.cddfedc9.chunk.js": "/static/js/787.cddfedc9.chunk.js",
+    "static/media/KimjungchulMyungjo-Light.ttf": "/static/media/KimjungchulMyungjo-Light.69818dd8dc8ed63af189.ttf",
+    "static/media/KimjungchulScript-Light.ttf": "/static/media/KimjungchulScript-Light.dea51d84873bbe900ae8.ttf",
+    "static/media/KimjungchulGothic-Light.ttf": "/static/media/KimjungchulGothic-Light.ef72ce26c8042828d0f6.ttf",
+    "index.html": "/index.html",
+    "main.5e7f2b11.css.map": "/static/css/main.5e7f2b11.css.map",
+    "main.7359375c.js.map": "/static/js/main.7359375c.js.map",
+    "787.cddfedc9.chunk.js.map": "/static/js/787.cddfedc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7f2b11.css",
+    "static/js/main.7359375c.js"
+  ]
+}
